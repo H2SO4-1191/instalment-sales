@@ -1,0 +1,21 @@
+# User-specific files & local IDE caches
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs and compilation artifacts
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Backup and transient compilation files
+*.bak
+*.cache
+*.log
+Thumbs.db
+ehthumbs.db
